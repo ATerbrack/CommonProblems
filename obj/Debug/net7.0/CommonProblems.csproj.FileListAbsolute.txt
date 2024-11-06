@@ -1,0 +1,15 @@
+D:\GitHub\CommonProblems\bin\Debug\net7.0\CommonProblems.exe
+D:\GitHub\CommonProblems\bin\Debug\net7.0\CommonProblems.deps.json
+D:\GitHub\CommonProblems\bin\Debug\net7.0\CommonProblems.runtimeconfig.json
+D:\GitHub\CommonProblems\bin\Debug\net7.0\CommonProblems.dll
+D:\GitHub\CommonProblems\bin\Debug\net7.0\CommonProblems.pdb
+D:\GitHub\CommonProblems\obj\Debug\net7.0\CommonProblems.csproj.AssemblyReference.cache
+D:\GitHub\CommonProblems\obj\Debug\net7.0\CommonProblems.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\CommonProblems\obj\Debug\net7.0\CommonProblems.AssemblyInfoInputs.cache
+D:\GitHub\CommonProblems\obj\Debug\net7.0\CommonProblems.AssemblyInfo.cs
+D:\GitHub\CommonProblems\obj\Debug\net7.0\CommonProblems.csproj.CoreCompileInputs.cache
+D:\GitHub\CommonProblems\obj\Debug\net7.0\CommonProblems.dll
+D:\GitHub\CommonProblems\obj\Debug\net7.0\refint\CommonProblems.dll
+D:\GitHub\CommonProblems\obj\Debug\net7.0\CommonProblems.pdb
+D:\GitHub\CommonProblems\obj\Debug\net7.0\CommonProblems.genruntimeconfig.cache
+D:\GitHub\CommonProblems\obj\Debug\net7.0\ref\CommonProblems.dll
